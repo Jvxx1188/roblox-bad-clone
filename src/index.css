@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+scroll-container{
+
+}
+h1{
+font-size:40px;
+font-weight:bold;
+}
+h2{
+font-weight:bold;
+}
+h3{
+font-weight:bold;
+}
